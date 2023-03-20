@@ -7,7 +7,7 @@
 
 </center>
 
-## Tecnologias que uso no meu dia
+## Technologies used in my day
 
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -18,7 +18,7 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div><br>
 
-#Andamento
+#Progress
 
 <center>
   <table>
@@ -29,7 +29,7 @@
   </table>
 </center>
 
-#Tecnologias
+#Technologies
 
 <center>
   <table align="space-between">
@@ -43,7 +43,7 @@
             <img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,py" alt="skills logos" />
        </td>
        <td>
-            <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,webpack" alt="skills logos" />
+            <img src="https://skillicons.dev/icons?i=laravel,bootstrap,jquery,nodejs,webpack" alt="skills logos" />
        </td>
        <td>
             <img src="https://skillicons.dev/icons?i=vscode,github,mysql,postgres" alt="skills logos" />
