@@ -18,6 +18,8 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Bootstrap-6610f2?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Jquery-b24926?style=for-the-badge&logo=jquery&logoColor=white" />
+  ![snake gif](https://github.com/kevin504-max/kevin504-max/blob/output/github-contribution-grid-snake.svg)
+
 </div><br>
 
 # Progress
@@ -53,5 +55,4 @@
      </tr>
   </table>
 </center>
-  ![snake gif](https://github.com/kevin504-max/kevin504-max/blob/output/github-contribution-grid-snake.svg)
 
