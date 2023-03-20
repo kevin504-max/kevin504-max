@@ -43,10 +43,10 @@
             <img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,py" alt="skills logos" />
        </td>
        <td>
-            <img src="https://skillicons.dev/icons?i=laravel, bootstrap,nodejs, webpack" alt="skills logos" />
+            <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,webpack" alt="skills logos" />
        </td>
        <td>
-            <img src="https://skillicons.dev/icons?i=vscode, github, mysql, postgres" alt="skills logos" />
+            <img src="https://skillicons.dev/icons?i=vscode,github,mysql,postgres" alt="skills logos" />
        </td>
      </tr>
   </table>
