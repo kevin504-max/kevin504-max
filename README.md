@@ -50,7 +50,7 @@
             <img src="https://skillicons.dev/icons?i=laravel,bootstrap,jquery,nodejs,webpack" alt="skills logos" />
        </td>
        <td>
-            <img src="https://skillicons.dev/icons?i=vscode,github,mysql,postgres" alt="skills logos" />
+            <img src="https://skillicons.dev/icons?i=vscode,github,mysql,postgres,mongodb" alt="skills logos" />
        </td>
      </tr>
   </table>
