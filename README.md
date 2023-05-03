@@ -47,7 +47,7 @@
             <img src="https://skillicons.dev/icons?i=html,css,js,php,typescript,java,c,py" alt="skills logos" />
        </td>
        <td>
-            <img src="https://skillicons.dev/icons?i=laravel,bootstrap,jquery,react,nodejs,webpack,vite" alt="skills logos" />
+            <img src="https://skillicons.dev/icons?i=laravel,bootstrap,jquery,react,nodejs,webpack,vite,vue" alt="skills logos" />
        </td>
        <td>
             <img src="https://skillicons.dev/icons?i=vscode,github,mysql,postgres,mongodb" alt="skills logos" />
