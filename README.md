@@ -8,18 +8,18 @@ I have experience developing and scaling large-scale applications using technolo
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,java,c,py,html,css"/>
+<img src="https://skillicons.dev/icons?i=php,js,py,c,html,css"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,nextjs,react,bootstrap,jquery,vite"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,nextjs,bootstrap,jquery"/>
 </p>
 
 ### Databases & Cloud
