@@ -4,7 +4,7 @@
 
 I'm a Full Stack Developer passionate about building scalable web applications and solving real-world problems through clean, efficient, and maintainable code.
 
-I have experience developing and scaling large-scale applications using technologies such as **Laravel**, **Node.js**, **Vue.js**, and modern backend architectures. I enjoy learning new technologies, improving development workflows, and applying best practices to deliver reliable software.
+I have experience developing and scaling large-scale applications using technologies such as **Laravel**, **C#**, **Unity**, and modern backend architectures. I enjoy learning new technologies, improving development workflows, and applying best practices to deliver reliable software.
 
 ---
 
@@ -13,13 +13,13 @@ I have experience developing and scaling large-scale applications using technolo
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,py,c,html,css"/>
+<img src="https://skillicons.dev/icons?i=php,js,py,cs,html,css"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,nextjs,bootstrap,jquery"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,cs,bootstrap,jquery"/>
 </p>
 
 ### Databases & Cloud
@@ -31,7 +31,7 @@ I have experience developing and scaling large-scale applications using technolo
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,unity,docker,linux,vscode,phpstorm"/>
 </p>
 
 ---
