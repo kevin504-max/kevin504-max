@@ -13,25 +13,31 @@ I have experience developing and scaling large-scale applications using technolo
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,py,cs,html,css"/>
+<img src="https://skillicons.dev/icons?i=php,js,py,c,html,css"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,vue,cs,bootstrap,jquery"/>
+<img src="https://skillicons.dev/icons?i=laravel,cs,bootstrap,jquery,nodejs,vue"/>
 </p>
 
 ### Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,aws"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,firebase"/>
+</p>
+
+### Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity"/>
 </p>
 
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,unity,docker,linux,vscode,phpstorm"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,phpstorm,androidstudio"/>
 </p>
 
 ---
